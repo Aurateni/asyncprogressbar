@@ -1,7 +1,7 @@
 # asyncprogressbar
 Асинхронное скачивание файлов с помощью Python | Progress bar
 
-main.py с помощью библиотеки requests
+main.py создан с помощью библиотеки requests, 
 main_async.py с помощью библиотек asyncio и httpx
 
 
